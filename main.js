@@ -110,10 +110,3 @@ console.log(addLogin(logins, "newUser"))
 console.log(addLogin(logins, "ad"))
 console.log(addLogin(logins, "user123"))
 console.log(logins)
-
-
-let array = ["моя", "мама", "Молодець!!"]
-for (let i = 0; i< array.length;i++){
-  let current = array[i]
-  console.log(current)
-}
